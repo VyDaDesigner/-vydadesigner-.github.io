@@ -1,1 +1,1 @@
-# -vydadesigner-.github.io
+# vydadesigner.github.io
